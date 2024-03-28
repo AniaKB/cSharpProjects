@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NJKJn3GYfEZacojXxdHfYs7Hhfgm+y+A1kQR3sEByEYLkn9yW+YNoWPy2xfzZQEECnbDOILnlM6h9n25COncCA==",
+  "dgSpecHash": "WUrBBCUhfI3FZR4PrnhjIkutvnYtLovASjvrSu4Kket8r01I6v0g8JgknAbTF63fLzUKWAyl061QIfac/SxcWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maddie\\Documents\\GitHub\\cSharpProjects\\TestProject\\TestProject.csproj",
+  "projectFilePath": "/Users/plank/Documents/Github/cSharpProjects/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
